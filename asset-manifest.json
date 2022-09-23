@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mcontractor12.github.io/csb-b94jdr/static/css/main.98acec8e.chunk.css",
+    "main.js": "https://mcontractor12.github.io/csb-b94jdr/static/js/main.7540b281.chunk.js",
+    "main.js.map": "https://mcontractor12.github.io/csb-b94jdr/static/js/main.7540b281.chunk.js.map",
+    "runtime-main.js": "https://mcontractor12.github.io/csb-b94jdr/static/js/runtime-main.9806b016.js",
+    "runtime-main.js.map": "https://mcontractor12.github.io/csb-b94jdr/static/js/runtime-main.9806b016.js.map",
+    "static/css/2.0c0c1bcb.chunk.css": "https://mcontractor12.github.io/csb-b94jdr/static/css/2.0c0c1bcb.chunk.css",
+    "static/js/2.4eb0e502.chunk.js": "https://mcontractor12.github.io/csb-b94jdr/static/js/2.4eb0e502.chunk.js",
+    "static/js/2.4eb0e502.chunk.js.map": "https://mcontractor12.github.io/csb-b94jdr/static/js/2.4eb0e502.chunk.js.map",
+    "index.html": "https://mcontractor12.github.io/csb-b94jdr/index.html",
+    "static/css/2.0c0c1bcb.chunk.css.map": "https://mcontractor12.github.io/csb-b94jdr/static/css/2.0c0c1bcb.chunk.css.map",
+    "static/css/main.98acec8e.chunk.css.map": "https://mcontractor12.github.io/csb-b94jdr/static/css/main.98acec8e.chunk.css.map",
+    "static/js/2.4eb0e502.chunk.js.LICENSE.txt": "https://mcontractor12.github.io/csb-b94jdr/static/js/2.4eb0e502.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9806b016.js",
+    "static/css/2.0c0c1bcb.chunk.css",
+    "static/js/2.4eb0e502.chunk.js",
+    "static/css/main.98acec8e.chunk.css",
+    "static/js/main.7540b281.chunk.js"
+  ]
+}
